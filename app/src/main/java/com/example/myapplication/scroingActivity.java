@@ -64,7 +64,7 @@ public class scroingActivity extends AppCompatActivity {
             String s1 = scoreB.getText().toString();
             s1 = String.valueOf(Integer.parseInt(s1) + 3);
             scoreB.setText(s1);
-            //1
+            //11
         }
     }
     public void click(View v)
