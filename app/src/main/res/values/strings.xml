@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="stu_name">CourtCounter</string>
+    <string name="stu_number">input RMB</string>
+    <string name="hello" translatable="false">结果是：</string>
+    <string name="button" translatable="false">FREE THROW</string>
+    <string name="TeamA" translatable="false">TeamA</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="button2" translatable="false">+3 PIONTS</string>
+    <string name="button3" translatable="false">+2 PIONTS</string>
+    <string name="button4" translatable="false">+1 PIONTS</string>
+    <string name="button5" translatable="false">RESET</string>
+    <string name="doliar" translatable="false">Team B</string>
+    <string name="euro" translatable="false">EURO</string>
+    <string name="won" translatable="false">WON</string>
 </resources>
