@@ -15,7 +15,7 @@ public class rmbActivity extends AppCompatActivity {
     private View rmbInput;
     private TextView resultText;
 
-    // 默认汇率1
+    // 默认汇率11
     private double rmbToDollarRate = 0.138;
     private double rmbToEuroRate = 0.128;
     private double rmbToWonRate = 184.5;
