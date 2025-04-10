@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="hello"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:layout_marginBottom="20dp"
+        tools:ignore="HardcodedText"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1 RMB = ? DOLLAR"
+        android:textSize="16sp"
+        tools:ignore="HardcodedText"
+        android:labelFor="@id/rmbToDollar"/>
+
+    <EditText
+        android:id="@+id/rmbToDollar"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:autofillHints=""
+        android:inputType="numberDecimal"
+        android:layout_marginBottom="16dp"
+        tools:ignore="Autofill,LabelFor"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1 RMB = ? EURO"
+        android:textSize="16sp"
+        tools:ignore="HardcodedText"
+        android:labelFor="@id/rmbToEuro"
+        />
+
+    <EditText
+        android:id="@+id/rmbToEuro"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:inputType="numberDecimal"
+        android:layout_marginBottom="16dp"
+        tools:ignore="Autofill,LabelFor" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1 RMB = ? WON"
+        android:textSize="16sp"
+        tools:ignore="HardcodedText"
+        android:labelFor="@+id/rmbToWon"
+        />
+
+    <EditText
+        android:id="@+id/rmbToWon"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:inputType="numberDecimal"
+        android:layout_marginBottom="16dp"
+        tools:ignore="Autofill,LabelFor" />
+
+    <Button
+        android:id="@+id/saveButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/save"
+        />
+</LinearLayout>

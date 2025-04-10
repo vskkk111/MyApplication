@@ -13,4 +13,6 @@
     <string name="doliar" translatable="false">Team B</string>
     <string name="euro" translatable="false">EURO</string>
     <string name="won" translatable="false">WON</string>
+    <string name="input_rmb">input(RMB)</string>
+    <string name="save">SAVE</string>
 </resources>
