@@ -98,6 +98,7 @@ public class rmbActivity extends AppCompatActivity {
             rmbToEuroRate = data.getDoubleExtra("RMB_TO_EURO", 0.128);
             rmbToWonRate = data.getDoubleExtra("RMB_TO_WON", 184.5);
 
+
         }
     }
 }
