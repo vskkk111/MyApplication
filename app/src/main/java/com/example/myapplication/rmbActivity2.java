@@ -31,7 +31,6 @@ public class rmbActivity2 extends AppCompatActivity {
         Button saveButton = findViewById(R.id.saveButton);
 
 
-
         // 获取当前汇率
         double dollarRate = getIntent().getDoubleExtra("RMB_TO_DOLLAR", 0.138);
         double euroRate = getIntent().getDoubleExtra("RMB_TO_EURO", 0.128);

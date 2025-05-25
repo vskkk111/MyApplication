@@ -60,7 +60,6 @@ public class rmbActivity extends AppCompatActivity {
             startActivityForResult(intent, 1);
         });
     }
-
     @SuppressLint("DefaultLocale")
     private void convertCurrency(String currency, double rate) {
         EditText rmbInput = findViewById(R.id.rmbInput);
