@@ -2,7 +2,7 @@
     <string name="app_name">My Application</string>
     <string name="stu_name">CourtCounter</string>
     <string name="stu_number">input RMB</string>
-    <string name="hello" translatable="false">结果是：</string>
+    <string name="result" translatable="false">rusult</string>
     <string name="button" translatable="false">FREE THROW</string>
     <string name="TeamA" translatable="false">TeamA</string>
     <string name="zero" translatable="false">0</string>
@@ -15,4 +15,8 @@
     <string name="won" translatable="false">WON</string>
     <string name="input_rmb">input(RMB)</string>
     <string name="save">SAVE</string>
+    <string name="Button" translatable="false">Button</string>
+    <string name="money" translatable="false">币种</string>
+    <string name="number" translatable="false">123.45</string>
+
 </resources>
