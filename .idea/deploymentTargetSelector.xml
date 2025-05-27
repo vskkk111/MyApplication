@@ -8,19 +8,19 @@
       <SelectionState runConfigName="scroingActivity (2)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="rmbActivity (1)">
+      <SelectionState runConfigName="RateListActivity (1)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="rmbActivity (2)">
+      <SelectionState runConfigName="MainActivity3">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="rmbActivity2 (1)">
+      <SelectionState runConfigName="MainActivity3 (1)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="rmbActivity (3)">
+      <SelectionState runConfigName="MainActivity5">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="rmbActivity (4)">
+      <SelectionState runConfigName="listActivity10">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
